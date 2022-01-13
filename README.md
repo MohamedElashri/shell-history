@@ -19,7 +19,7 @@ https://github.com/MohamedElashri/shell-history
 cd bash
 ```
 
-- Execute config.sh
+- Execute `history.sh`
 
 You can specify the alias to use for the command, the default is `r_history` which will be used if you execute without choose an alias paramater.
 
